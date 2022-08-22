@@ -19,6 +19,7 @@ ul {
     justify-content: space-between;
     list-style: none;
     color: rgb(255, 30, 0);
+    border: 5px dashed magenta;
 
 }
 #products{
@@ -26,5 +27,5 @@ ul {
     display: flex;
     justify-content: space-between;
     list-style: none;
-
+border: 5px dotted greenyellow;
 }
